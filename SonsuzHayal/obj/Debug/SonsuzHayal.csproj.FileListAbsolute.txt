@@ -1,0 +1,26 @@
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\bin\Debug\SonsuzHayal.exe.config
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\bin\Debug\SonsuzHayal.exe
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\bin\Debug\SonsuzHayal.pdb
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.Properties.Resources.resources
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.exe
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.pdb
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.Form1.resources
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.Kayit.resources
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.Main.resources
+C:\Users\pc\Desktop\Eren\x\veritabanı programı\SonsuzHayal\obj\Debug\SonsuzHayal.Forum.resources
+C:\Users\mrata\Desktop\SonsuzHayal\bin\Debug\SonsuzHayal.exe.config
+C:\Users\mrata\Desktop\SonsuzHayal\bin\Debug\SonsuzHayal.exe
+C:\Users\mrata\Desktop\SonsuzHayal\bin\Debug\SonsuzHayal.pdb
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.AssemblyReference.cache
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.Form1.resources
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.Forum.resources
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.Kayit.resources
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.Main.resources
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.Properties.Resources.resources
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.GenerateResource.cache
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.csproj.CoreCompileInputs.cache
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.exe
+C:\Users\mrata\Desktop\SonsuzHayal\obj\Debug\SonsuzHayal.pdb
